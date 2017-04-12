@@ -1,0 +1,2 @@
+# VirtualPoker
+OOP project
